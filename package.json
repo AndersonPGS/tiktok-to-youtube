@@ -1,0 +1,17 @@
+{
+  "name": "tiktok-to-youtube",
+  "version": "1.0.0",
+  "description": "Download videos of tiktok and auto upload in youtube",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsx src/app.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.15.11",
+    "tsup": "^6.7.0",
+    "tsx": "^3.12.6",
+    "typescript": "^5.0.3"
+  }
+}
